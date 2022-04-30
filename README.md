@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ryan-di
-- 👀 I’m interested in web dev & web frameworks (React in particular)
-- 🌱 I’m currently 
-  1. learning React from Kent C. Dodds 
-  2. reading Redux source code
-  3. preparing for coding interviews (LeetCode-cn is the main resource that I use)
-- 💞️ I’m looking to collaborate on teaching & sharing tech!
+- 👋 Hi, I’m [@Ryan Di](https://twitter.com/HyperRyan34)
 - 📫 ryan.weihao.di@gmail.com
 
 <!---
