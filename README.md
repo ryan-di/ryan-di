@@ -3,7 +3,7 @@
 - ✍️ I blog [here](https://ryandi.site)
 - 📨 You can reach me at ryan.weihao.di@gmail.com
 
-I use Notion to track what I am reading and learning. Here are some of the ones that I am reading and learning and recommend as well
+I use Notion to track what I am reading and learning. Here are some that I find insightful and enjoyable
 
 | Title | Author | Why it's awesome  |
 | ----- | -------| ------------------|
